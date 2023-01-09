@@ -1,0 +1,56 @@
+body {
+    position: relative;
+    background-color: #5BC0F8;
+    font-family: 'Vollkorn', serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Courgette', cursive;
+}
+
+.top-container {
+    position: relative;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: relative;
+    left: 10%;
+    top:10px;
+}
+
+.text {
+    position: relative;
+    text-align: center;
+}
+
+.bottom-cloud {
+    display: block;
+    position: relative;
+    left: 30%;
+}
+
+.mountain {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 10px;
+    border-color: gray;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.myself-photo {
+    border-radius: 1000px;
+
+}
