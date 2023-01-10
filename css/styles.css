@@ -6,7 +6,13 @@ body {
     text-align: center;
 }
 
-h1, h2 {
+h1 {
+    font-size: 90px;
+    font-family: 'Courgette', cursive;
+}
+
+h2 {
+    font-size: 50px;
     font-family: 'Courgette', cursive;
 }
 
@@ -21,7 +27,7 @@ span {
 .top-cloud {
     position: relative;
     left: 10%;
-    top:10px;
+    top: 10px;
 }
 
 .text {
@@ -53,4 +59,10 @@ hr {
 .myself-photo {
     border-radius: 1000px;
 
+}
+
+p {
+    font-size: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
